@@ -1,4 +1,4 @@
-<?php echo anchor('produk/tampil','Tampil'); ?>
+<?php echo anchor('produk','Tampil'); ?>
 <?php echo form_open('produk/save') ?>
 <table width="325" border="1">
 	<tr>
